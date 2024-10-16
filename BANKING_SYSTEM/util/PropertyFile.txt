@@ -1,0 +1,4 @@
+driver = {SQL Server}
+server = LAPTOP-Q72Q77L5\SQLEXPRESS
+dbname = BankingSystem
+trusted_connection = yes
